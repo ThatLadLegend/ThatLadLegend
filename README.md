@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatladlegend&label=Profile%20views&color=0e75b6&style=flat" alt="thatladlegend" /> </p>
 
-- 🔭 I’m currently **free to hire**.
+- 🔭 I’m currently **available to hire**.
 
 - 🌱 I’m currently learning **C#, Disqord, Python**.
 
